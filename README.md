@@ -1,6 +1,6 @@
 ### Hi i'm Tiago! 👋
 
- 🌱 I'm currently on the 1st of Master's Degree in Robotics, Automation & Control and Artificial Intelligence at FCTUC - Faculty of Science and Technology of University of Coimbra<br/>
+ 🌱 I'm currently on the 1st of Master's Degree in Robotics, Automation & Control and Artificial Intelligence at FCTUC - Faculty of Science and Technology at University of Coimbra<br/>
  Since i was a little boy i've always enjoyed technology and computers and now as a engineering student i'm looking for challenges and opportunities with the goal of improving my skills.
  
  ⚙️Programming Languages: C, C++, VHDL, Verilog, Assembly, Matlab & Arduino
