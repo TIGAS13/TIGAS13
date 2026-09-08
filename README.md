@@ -3,7 +3,7 @@
  🌱 I'm currently on the 2nd year of Master's Degree in Robotics, Automation & Control and Artificial Intelligence at FCTUC - Faculty of Science and Technology at University of Coimbra<br/>
  Since i was a little boy i've always enjoyed technology and computers and now as a engineering student i'm looking for challenges and opportunities with the goal of improving my skills.
  
- ⚙️Programming Languages: C, C++, VHDL, Verilog, Assembly, Matlab & Arduino
+ ⚙️Technical Skills: C, C++, Matlab, Python, ROS, Machine Learning, Computer Vision and Deep Learning
   
  🛠️ Tools: Github, Arduino IDE,  QT Creator
   
