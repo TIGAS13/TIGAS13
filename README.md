@@ -14,6 +14,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-7B2FFF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://shields.io)
+![TensorFlow](https://shields.io)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TIGAS13&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
