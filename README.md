@@ -5,7 +5,7 @@
  
  ⚙️Technical Skills: C, C++, Matlab, Python, ROS, Machine Learning, Computer Vision and Deep Learning
   
- 🛠️ Tools: Github, Arduino IDE,  QT Creator
+ 
   
   
 # 💻 Tech Stack:
